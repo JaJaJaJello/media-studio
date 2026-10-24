@@ -2,6 +2,8 @@
 
 A fast, dark-themed viewer/editor for images, GIFs, videos and audio.
 
+***Disclaimer: This program is entirely, 100% vibe coded. There is not a single human-written line of code in here. Generated from Claude Opus 5.5*** I wanted a better viewer for GIFS that would let me scrub through them like videos, accessing specific frames. While i'm sure if i looked i would find ways to do this, i like the simplicity of the default windows media player. I dont want to open something fancy for what i'm doing. While i like coding, this program was simply a means to an end for another project, which I did not want to put on halt to make this in the meantime. This is mostly here for me but if anyone finds this useful you are welcome to try it as well
+
 **Run:** `dist\MediaStudio\MediaStudio.exe` (keep the `_internal` folder next to it).
 **Rebuild:** `build.bat`  ·  **Run from source:** `.venv\Scripts\python.exe run.py [file]`
 
